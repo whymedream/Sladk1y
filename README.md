@@ -6,7 +6,7 @@
 
 
 ### Contacts:
-My Discord: ### тот самый SLADK1Y#8819
+My Discord: тот самый SLADK1Y#8819
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sladk1y&theme=tokyonight&show_icons=true)  
