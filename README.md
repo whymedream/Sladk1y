@@ -4,8 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,discord)]([https://artembay.tk](https://discord.com/users/1064250083899625482/))
 
-My github statistic:
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sladk1y&theme=tokyonight&show_icons=true)  
+Contacts:
+My Discord: тот самый SLADK1Y#8819
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sladk1y&theme=tokyonight&show_icons=true)  
